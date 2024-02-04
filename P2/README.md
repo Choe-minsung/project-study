@@ -18,4 +18,4 @@
     1. KNeighborsClassifier
     2. DecisionTreeClassifier
     3. XGBClassifier
- 
+3. 모델 test 
