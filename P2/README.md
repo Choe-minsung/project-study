@@ -4,7 +4,7 @@
 
 <img src='https://github.com/Choe-minsung/project-study/blob/f1d8964a97cbb6593fd6bcb869ab37558c238cc4/P2/src/wine.png' width='500'/>
 
-- duration : 2023.09.12 ~ 2023.09.25
+- duration : 2023.09.26 ~ 2023.10.06
 - stack : Python (Jupyter Notebook)
 - member : **PM** 1 / 기술 2
 - my role : **PM**
