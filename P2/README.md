@@ -1,6 +1,6 @@
-# Project 1
+# Project 2
 
-### subject : 도로교통공단 사망 교통사고 데이터분석
+### subject : 와인 분류 [ML]
 
 <img src='https://github.com/Choe-minsung/project-study/blob/f1d8964a97cbb6593fd6bcb869ab37558c238cc4/P2/src/wine.png' width='500'/>
 
@@ -19,4 +19,3 @@
     2. DecisionTreeClassifier
     3. XGBClassifier
  
-<img src='https://github.com/Choe-minsung/project-study/blob/007b6b36a35c3ed62cd29923b13635f9776bd77f/P1/src/kdeplot.png' width='500'/>
