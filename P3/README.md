@@ -6,7 +6,7 @@
 
 - duration : 2023.10.07 ~ 2023.10.23
 - stack : Python (Jupyter Notebook)
-- member : **PM** 1 / 기술 3
+- member : **PM** 1 / 기술 2
 - my role : **PM**
 
 #### pipeline
