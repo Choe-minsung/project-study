@@ -10,14 +10,12 @@
 - my role : **PM**
 
 #### pipeline
-1. 데이터 전처리
-2. 데이터 분석
-- **단변량분석**
-    1. feature 별 사고 인사이트
-    2. 단독사고 분석
-    3. 단독사고 중 이륜차 사고 분석
-- **다변량분석**
-    1. target : 사망자 수
-    2. target : 부상자 수
+1. 데이터탐색, 전처리
+2. model 구현  
+   2-1. **LinearRegression**  
+   2-2. **RandomForestRegressor**  
+   2-3. **GradientBoostingRegressor**  
+4. model selection & tuning
+5. 집값예측
  
-<img src='https://github.com/Choe-minsung/project-study/blob/007b6b36a35c3ed62cd29923b13635f9776bd77f/P1/src/kdeplot.png' width='500'/>
+<img src='https://github.com/Choe-minsung/project-study/blob/82c95750817c8af2e23ebafe56a284e07b8704dd/P3/src/houseprice_pred.png' width='700'/>
