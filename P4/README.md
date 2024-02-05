@@ -2,11 +2,11 @@
 
 ### subject : 집값 예측 [DL]
 
-<img src='https://github.com/Choe-minsung/project-study/blob/c7f4945335a6f490b27eb97bd915f21edde4141f/P3/src/KCC2.png' width='700'/>
+<img src='https://github.com/Choe-minsung/project-study/blob/11dd361cbdefa71277c72591f6ce934e35f38ee6/P4/src/1st_price_house.png' width='700'/>
 
-- duration : 2023.10.07 ~ 2023.10.23
+- duration : 2023.11.06 ~ 2023.11.13
 - stack : Python (Jupyter Notebook)
-- member : **PM** 1 / 기술 2
+- member : **PM** 1 / 기술 3
 - my role : **PM**
 
 #### pipeline
@@ -18,4 +18,4 @@
 4. model selection & tuning
 5. 집값예측
  
-<img src='https://github.com/Choe-minsung/project-study/blob/82c95750817c8af2e23ebafe56a284e07b8704dd/P3/src/houseprice_pred.png' width='700'/>
+<img src='https://github.com/Choe-minsung/project-study/blob/30e24c95880162b013700fbff5f271d28f742b0c/P4/src/train_loss.png' width='700'/>
