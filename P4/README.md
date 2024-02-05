@@ -11,11 +11,14 @@
 
 #### pipeline
 1. 데이터탐색, 전처리
-2. model 구현  
-   2-1. **LinearRegression**  
-   2-2. **RandomForestRegressor**  
-   2-3. **GradientBoostingRegressor**  
-4. model selection & tuning
-5. 집값예측
+2. 추가 ML modeling (*project 3 retrospective*)  
+   2-1. **CatBoost** vs XGB, LGMB (and other boost models)  
+3. DL modeling   
+   3-1. **Sequential** (hl 수 : 2, epochs=30, batch_size=32)  
+   3-2. **Sequential** (hl 수 : 3, epochs=30, batch_size=32)  
+   3-3. Overfitting 해소  
+4. 집값예측  
+5. 추가 DL modeling  
+   5-1. LSTM  
  
-<img src='https://github.com/Choe-minsung/project-study/blob/30e24c95880162b013700fbff5f271d28f742b0c/P4/src/train_loss.png' width='700'/>
+<img src='https://github.com/Choe-minsung/project-study/blob/30e24c95880162b013700fbff5f271d28f742b0c/P4/src/train_loss.png' width='500'/>
