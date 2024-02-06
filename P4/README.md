@@ -19,6 +19,10 @@
    3-3. Overfitting 해소  
 4. 집값예측  
 5. 추가 DL modeling  
-   5-1. **LSTM**  
+   5-1. 단위기간 설정 (sequence_length = 10)  
+   5-2. **LSTM**  
  
 <img src='https://github.com/Choe-minsung/project-study/blob/30e24c95880162b013700fbff5f271d28f742b0c/P4/src/train_loss.png' width='500'/>
+
+
+<img src='https://github.com/Choe-minsung/project-study/blob/d13ca905fb5d5136388cd60f14226ef994412ffc/P4/src/pred_timeseries.png' width='500'/>
