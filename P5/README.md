@@ -1,4 +1,4 @@
-# Project 4
+# Project 5
 
 ### subject : 집값 예측 [DL]
 
@@ -21,8 +21,10 @@
 5. 추가 DL modeling  
    5-1. 단위기간 설정 (sequence_length = 10)  
    5-2. **LSTM**  
- 
-<img src='https://github.com/Choe-minsung/project-study/blob/30e24c95880162b013700fbff5f271d28f742b0c/P4/src/train_loss.png' width='500'/>
 
 
-<img src='https://github.com/Choe-minsung/project-study/blob/d13ca905fb5d5136388cd60f14226ef994412ffc/P4/src/pred_timeseries.png' width='500'/>
+<img src='https://github.com/Choe-minsung/project-study/blob/3bfaedf59db71a6db35e82558886efe8af1f5273/P5/src/feature_map.png' width='700'/>
+
+
+<img src='https://github.com/Choe-minsung/project-study/blob/12f5aec14b1ae39b00ea4f1270eab140566ccb07/P5/src/pred_airfare.png' width='700'/>
+
