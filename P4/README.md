@@ -19,6 +19,6 @@
    3-3. Overfitting 해소  
 4. 집값예측  
 5. 추가 DL modeling  
-   5-1. LSTM  
+   5-1. **LSTM**  
  
 <img src='https://github.com/Choe-minsung/project-study/blob/30e24c95880162b013700fbff5f271d28f742b0c/P4/src/train_loss.png' width='500'/>
