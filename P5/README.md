@@ -37,3 +37,4 @@
 
 <img src='https://github.com/Choe-minsung/project-study/blob/12f5aec14b1ae39b00ea4f1270eab140566ccb07/P5/src/pred_airfare.png' width='700'/>
 
+<img src='https://github.com/Choe-minsung/project-study/blob/6eb327da14436cf82a7f9017f6d229e22179d727/P5/src/dashboard_2.png' width='700'/>
