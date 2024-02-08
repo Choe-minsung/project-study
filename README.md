@@ -21,4 +21,7 @@
 
 ### Project 5 (11.14 ~ 11.27)
 
-[항공권 가격 예측 [ML & Prototype]](https://www.notion.so/ML-Prototype-99cc366752604fa2b3b2b683de369c63?pvs=21)
+[항공권 가격 예측 [ML & Prototype]](https://www.notion.so/ML-Prototype-99cc366752604fa2b3b2b683de369c63?pvs=21)  
+
+
+(Linked by notion)
