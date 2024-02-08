@@ -11,14 +11,14 @@
 
 ### Project 3 (10.07 ~ 10.23)
 
-[시각장애인 문화재 관람 스마트 환경 조성 사업 [DX 솔루션 기획 & 인프라 설계]](https://www.notion.so/DX-a12d92ade8424fb8bd7de95ad0cd397e?pvs=21)
+[집값 예측 [ML]](https://www.notion.so/ML-de94f6ed36204e968fdd336b96a3c979?pvs=21)
 
 
 
 ### Project 4 (11.06 ~ 11.13)
 
-[시각장애인 문화재 관람 스마트 환경 조성 사업 [제안전략 & 제안PT]](https://www.notion.so/PT-c8915992c1284addba0f31677e532650?pvs=21)
+[집값 예측 [DL]](https://www.notion.so/DL-fae6cdc94fee4b249a7c48c01762efd6?pvs=21)
 
 ### Project 5 (11.14 ~ 11.27)
 
-[시각장애인 문화재 관람 스마트 환경 조성 사업 [DX 솔루션 기획 & 인프라 설계] (1)](https://www.notion.so/DX-1-cbbb4fb7ae8e41f29898187e70a2a443?pvs=21)
+[항공권 가격 예측 [ML & Prototype]](https://www.notion.so/ML-Prototype-99cc366752604fa2b3b2b683de369c63?pvs=21)
