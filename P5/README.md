@@ -1,10 +1,10 @@
 # Project 5
 
-### subject : 집값 예측 [DL]
+### subject : 항공권 예측 [ML & Prototype]
 
-<img src='https://github.com/Choe-minsung/project-study/blob/11dd361cbdefa71277c72591f6ce934e35f38ee6/P4/src/1st_price_house.png' width='700'/>
+<img src='https://github.com/Choe-minsung/project-study/blob/ca5d45d60d0142fd2e22bdcbc7b869d503cbe826/P5/src/main.png' width='1100'/>
 
-- duration : 2023.11.06 ~ 2023.11.13
+- duration : 2023.11.014 ~ 2023.11.27
 - stack : Python (Jupyter Notebook)
 - member : **PM** 1 / 기술 3
 - my role : **PM**
