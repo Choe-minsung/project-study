@@ -1,4 +1,4 @@
-# project-study
+# side project study
 
 ### Project 1 (09.12 ~ 09.25)
 
