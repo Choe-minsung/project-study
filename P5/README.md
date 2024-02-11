@@ -16,10 +16,10 @@
     2. **KNeighborsRegressor**  
     3. **DecisionTreeRegressor** (’max_depth’ : 10)  
     4. **RandomForestRegressor** (’max_depth’ : 10, ‘n_estimators : 100)  
-    5. **GradientBoostingRegressor** (’max_depth’ : 10, ‘n_estimators’ : 100, ‘learning_rate’ : 0.1**)**  
+    5. **GradientBoostingRegressor** (’max_depth’ : 10, ‘n_estimators’ : 100, ‘learning_rate’ : 0.1)  
     6. **XGBRegressor** (’max_depth’ : 10)  
     7. **LGBMRegressor** (’verbose’ : -100)  
-    8. **CatBoostRegressor** (**’**learning_rate’ : 0.1, ‘depth’ : 10)  
+    8. **CatBoostRegressor** (’learning_rate’ : 0.1, ‘depth’ : 10)  
 3. model selection & model tuning  
 4. **Prototype** 구현  
     
